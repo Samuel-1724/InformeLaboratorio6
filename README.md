@@ -96,4 +96,10 @@ Con resistencia de 820 ohms.
 
 De igual manera continuo analizando las corrientes con las resistencias sobrantes.
 
-**5.3**. Ahora mediremos la corriente que pasa por la resistencia Rl, en cada caso. Lo haremos a través de Tinkercad.
+**5.3**. Ahora mediremos la potencia experimental conseguida en cada uno de las Rl con los datos dados por Tinkercad.
+
+[![Whats-App-Image-2022-01-17-at-11-41-07-PM.jpg](https://i.postimg.cc/5tBw8m0b/Whats-App-Image-2022-01-17-at-11-41-07-PM.jpg)](https://postimg.cc/WD4FvggH)
+
+**5.4**. Ahora mediremos la potencia con el teorema de máxima potencia transferida conseguida en cada uno de las Rl con los datos dados por Tinkercad.
+
+[![Whats-App-Image-2022-01-17-at-11-42-25-PM.jpg](https://i.postimg.cc/jSVwvJB5/Whats-App-Image-2022-01-17-at-11-42-25-PM.jpg)](https://postimg.cc/xcR11qfD)
