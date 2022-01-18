@@ -68,7 +68,7 @@ Con resistencia de 470 ohms.
 
 [![7.png](https://i.postimg.cc/137SXRv0/7.png)](https://postimg.cc/87v9nGQs)
 
-Con resistencia de 680 ohmd.
+Con resistencia de 680 ohms.
 
 [![8.png](https://i.postimg.cc/bwsM6xRb/8.png)](https://postimg.cc/JsCP0Bv4)
 
@@ -78,3 +78,22 @@ De igual manera continuo analizando los voltajes con las resistencias sobrantes.
 
 **5.2**. Ahora mediremos la corriente que pasa por la resistencia Rl, en cada caso. Lo haremos a través de Tinkercad.
 
+[![9.png](https://i.postimg.cc/FRD8WDwy/9.png)](https://postimg.cc/WFq5t6Nz)
+
+Con resistencia de 220 ohms.
+
+[![10.png](https://i.postimg.cc/hG33Vfms/10.png)](https://postimg.cc/xkMR2jtN)
+
+Con resistencia de 470 ohms.
+
+[![11.png](https://i.postimg.cc/8cdHX57q/11.png)](https://postimg.cc/7J60fqMV)
+
+Con resistencia de 680 ohms.
+
+[![12.png](https://i.postimg.cc/jSnWR1Xj/12.png)](https://postimg.cc/4YZ45BjC)
+
+Con resistencia de 820 ohms.
+
+De igual manera continuo analizando las corrientes con las resistencias sobrantes.
+
+**5.3**. Ahora mediremos la corriente que pasa por la resistencia Rl, en cada caso. Lo haremos a través de Tinkercad.
