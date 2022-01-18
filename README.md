@@ -44,4 +44,12 @@ El teorema de máxima transferencia de potencia establece que, dada una fuente, 
 
 [![1.png](https://i.postimg.cc/j2bJL4M7/1.png)](https://postimg.cc/8JZCYMQp)
 
+**4.2.** Conectamos el suministrador de energía en la placa pequeña, de tal forma que el diseño del circuito dado en el informe sea similar al realizado.
 
+[![2.png](https://i.postimg.cc/2j710vH0/2.png)](https://postimg.cc/DmmfZW3G)
+
+**4.3.** Ahora posicionamos el resistor y lo conectaremos con un cable verde, siguiendo el modelo. De igual manera conectaremos el potenciómetro para poder obtener la resistencia requerida. Al final conectaremos el circuito hasta tierra para poder cerrarlo por completo.
+
+[![4.png](https://i.postimg.cc/P5Qhjzw7/4.png)](https://postimg.cc/0zjhGSZG)
+
+[![3.png](https://i.postimg.cc/CMRFqq3Z/3.png)](https://postimg.cc/9zj53rFV)
