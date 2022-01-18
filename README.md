@@ -7,15 +7,15 @@ Teorema de la Máxima Transferencia de Potencia.
 
 **2.1. Objetivo General**
 
-Comprobar experimentalmente el Teorema de Superposición
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 **2.2. Objetivos Específicos**
 
-- Definir el teorema de Superposición.
-- Entender sus pasos y la aplicación de estos.
+- Definir el teorema de Thevenin.
+- Entender sus pasos y la aplicación del Teorema de la Máxima Transferencia de Potencia.
 - Realizar el circuito propuesto de manera correcta y funcional.
 - Tomar las medidas de volatjes y corrientes en el circuito para comparar el teorema.
-- Realizar el teorema de Superposición manualmente y comparar con las medidas obtenidas en Tinkercad.
+- Realizar el teorema de MTP manualmente y comparar con las medidas obtenidas en Tinkercad.
 - Observar los resultados y concluir si el teorema es funcional. 
 
 **3. MARCO TEÓRICO**
@@ -118,3 +118,37 @@ De igual manera continuo analizando las corrientes con las resistencias sobrante
 | 2200 |4.41 mA |9.71 V  |42.82 W |42.82 W  |
 | 3900 |2.94 mA  |11.5 V  |33.81 W  |33.74 W |
 | 4700 |2.54 mA  |11.9 V  |30.23 W  |30.38 W |
+
+**5.6.** Luego de haber obtenido los datos necesarios, podemos responder a las preguntas que el informe me presenta.
+
+**5.6.1.** ¿Se cumple el teorema de la máxima transferencia de potencia? 
+
+Sí, se cumple el teorema de la máxima transferencia de potencia debido a que los resultados son los mismo al usar la ecuación de Potencia normal. 
+
+**5.6.2.** ¿Cuál fue la potencia máxima en RL? 
+
+Es de 46.49 W
+
+**5.6.3.** ¿Para qué valor de RL se obtiene MTP? 
+
+Para 1000 Ω
+
+**6. VÍDEO**
+
+https://www.youtube.com/watch?v=4mpXsCcd-NE
+
+**7. CONCLUSIONES**
+
+Con el siguiente informe de laboratorio pudimos observar y aplicar el concepto de MTP el cuál nos habla sobre la transferencia de máxima potencia en un circuito, especialemente cuando se trata de uno de Thevenin. Se aplicó sus características y se vio los pasos necesarios para lograr conseguir esta potencia requerida. De igual forma observamos y comparamos la ecuación de MTP con la ecuación normal de potencia, la cual también fue usada para describir las potencias de cada RL.
+
+Luego realizamos el circuito requerido en Tinkercad y tomamos las medidas requeridas para completar el cuadro de datos. Gracias a esto es que pudimos darnos cuenta de la semenaja que se hay al usar el teorema de MTP y las ecuaciones normales de potencia. Logrando así encontrar la potenica máxima del circuito. 
+
+De igual forma, respondidmos a las preguntas planteadas por este informe y argumentamos cada una de ellas con su respectivo resultado y el porque de este.
+
+**8. BIBLIOGRAFÍA**
+
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Ministerio de Educaión . (2011). inet. Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+- Eris, N. (20 de Noviembre de 2017). Sesoricx. Obtenido de https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+- Hain, J. (14 de Septiembre de 2019). Khan Academy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
