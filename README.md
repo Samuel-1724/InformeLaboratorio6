@@ -53,3 +53,28 @@ El teorema de máxima transferencia de potencia establece que, dada una fuente, 
 [![4.png](https://i.postimg.cc/P5Qhjzw7/4.png)](https://postimg.cc/0zjhGSZG)
 
 [![3.png](https://i.postimg.cc/CMRFqq3Z/3.png)](https://postimg.cc/9zj53rFV)
+
+**5. RESULTADOS OBTENIDOS**
+
+**5.1**. Primero mediremos el voltaje que pasa por la resistencia Rl, en cada caso. Lo haremos a través de Tinkercad.
+
+[![5.png](https://i.postimg.cc/HLWJDLVQ/5.png)](https://postimg.cc/yD560shd)
+
+Con resistencia de 220 ohms.
+
+[![6.png](https://i.postimg.cc/rmBFmyFZ/6.png)](https://postimg.cc/mzSGps97)
+
+Con resistencia de 470 ohms.
+
+[![7.png](https://i.postimg.cc/137SXRv0/7.png)](https://postimg.cc/87v9nGQs)
+
+Con resistencia de 680 ohmd.
+
+[![8.png](https://i.postimg.cc/bwsM6xRb/8.png)](https://postimg.cc/JsCP0Bv4)
+
+Con resistencia de 820 ohms.
+
+De igual manera continuo analizando los voltajes con las resistencias sobrantes.
+
+**5.2**. Ahora mediremos la corriente que pasa por la resistencia Rl, en cada caso. Lo haremos a través de Tinkercad.
+
