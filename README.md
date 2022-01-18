@@ -108,16 +108,16 @@ De igual manera continuo analizando las corrientes con las resistencias sobrante
 
 | RL(Ω)  | Corriente Medida (mA)  | Voltaje Medido (V)   |Potencia Calculada Experimentalmente (W)  |Potencia Calculada Teóricamente (W) |
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
-| 220 | 10.6 mA  | 2.33 V  | 24.70 W  | 24.55 W  | 
-| 470 | 8.98 mA | 4.22 V  | 37.89 W |37.92 W  |
-| 680 |7.98 mA  |5.43 V  |43.33 W |43.28 W  |
-| 820 |7.42 mA  |6.09 V |45.19 W  |45.22 W |
-| 1000 |6.82 mA |6.82 V  |46.51 W |46.49 W  |
-| 1500 |5.55 mA |8.33 V  |46.23 W |46.29 W  |
-| 1800 |5 mA  |9 V  |45 W  |45 W |
-| 2200 |4.41 mA |9.71 V  |42.82 W |42.82 W  |
-| 3900 |2.94 mA  |11.5 V  |33.81 W  |33.74 W |
-| 4700 |2.54 mA  |11.9 V  |30.23 W  |30.38 W |
+| 220 | 10.6 mA  | 2.33 V  | 24.70 mW  | 24.55 mW  | 
+| 470 | 8.98 mA | 4.22 V  | 37.89 mW |37.92 mW  |
+| 680 |7.98 mA  |5.43 V  |43.33 mW |43.28 mW  |
+| 820 |7.42 mA  |6.09 V |45.19 mW  |45.22 mW |
+| 1000 |6.82 mA |6.82 V  |46.51 mW |46.49 mW  |
+| 1500 |5.55 mA |8.33 V  |46.23 mW |46.29 mW  |
+| 1800 |5 mA  |9 V  |45 W  |45 mW |
+| 2200 |4.41 mA |9.71 V  |42.82 mW |42.82 mW  |
+| 3900 |2.94 mA  |11.5 V  |33.81 mW  |33.74 mW |
+| 4700 |2.54 mA  |11.9 V  |30.23 mW  |30.38 mW |
 
 **5.6.** Luego de haber obtenido los datos necesarios, podemos responder a las preguntas que el informe me presenta.
 
