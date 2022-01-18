@@ -32,3 +32,16 @@ El teorema de máxima transferencia de potencia establece que, dada una fuente, 
 
 [![Teorema-de-Transferencia-de-Potencia-M-xima.png](https://i.postimg.cc/52MvrnxF/Teorema-de-Transferencia-de-Potencia-M-xima.png)](https://postimg.cc/zV0VbwHJ)
 
+**4. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+**4.1.** Se realizará el siguiente circuito simple en Tinkercad. Se utilizarán las siguientes herramientas:
+
+- Una Placa de pruebas pequeña.
+- Una Resistencias.
+- Un Suminitrador de Energía.
+- Un multímetro.
+- Un Potenciómetro.
+
+[![1.png](https://i.postimg.cc/j2bJL4M7/1.png)](https://postimg.cc/8JZCYMQp)
+
+
